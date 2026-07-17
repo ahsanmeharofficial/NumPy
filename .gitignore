@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+*.env
+.env.*
+.DS_Store
+.vscode/
+*.log
+local_db_way1.json
+tempCodeRunnerFile.py
+

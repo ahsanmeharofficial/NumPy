@@ -4,7 +4,7 @@
 [![NumPy Version](https://img.shields.io/badge/NumPy-1.20%2B-darkblue.svg?style=for-the-badge&logo=numpy)](https://numpy.org/)
 [![Developer](https://img.shields.io/badge/Developer-Engr.%20Ahsan-orange.svg?style=for-the-badge)](https://www.devxperts.site)
 
-Welcome to my repository! This project showcases optimized, vectorized numerical computations and data manipulation leveraging the full power of **Python** and **NumPy**. 
+Welcome to my repositcory! This project showcases optimized, vectorized numerical computations and data manipulation leveraging the full power of **Python** and **NumPy**. 
 
 ---
 
